@@ -1,2 +1,4 @@
 # ProteinAnalysis_CSBio185
 This project was completed during Winter Quarter 2022 as part of my C&amp;S Bio 185 (Research Opportunities in Computational and Systems Biology) class at UCLA. 
+
+This project is a small extension of the PathFX studied completed by Dr. Jennifer Wilson and her team. The original goal of our PathFX analysis was to determine whether any of the top 5 most commonly prescribed cardiovascular, endocrine, respiratory, and gastrointestinal drugs could be repurposed for prostate cancer related purposes. However, after analyzing a few drugs through PathFX, we noticed that prostate cancer was not showing up as a resulting phenotypic target. We decided to take a step back to understand how many prostate cancer related proteins are actaully drug targets and to see if we should focus on another phenotype such as breast cancer. 
